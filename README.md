@@ -23,6 +23,12 @@ I value the resources and time invested into the project ,thus I am fully commit
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
+
+Career Highlight:
+•	Worked as Senior Technical Project Manager with over 10 years of hands-on experience implementing complex projects in telecom, strategic customer solutions and infrastructure.
+•	Operations Manager supporting Huawei Softx NGN Platform, SBC, various service platform, network and data center infrastructure.
+•	Technical skills and in-depth knowledge in Cisco HCS platform, Microsoft Teams, AWS cloud computing, UCAAS, network infrastructure, SD WAN, MPLS, VOIP SIP, Call Center solution.  Software skills in Power BI, Tableau and data visualization.
+
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
