@@ -24,8 +24,7 @@ I value the resources and time invested into the project ,thus I am fully commit
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 
-Career Highlight:
-•	Worked as Senior Technical Project Manager with over 10 years of hands-on experience implementing complex projects in telecom, strategic customer solutions and infrastructure.
+Senior Technical Project Manager with over 10 years of hands-on experience implementing complex projects in telecom, strategic customer solutions and infrastructure.
 •	Operations Manager supporting Huawei Softx NGN Platform, SBC, various service platform, network and data center infrastructure.
 •	Technical skills and in-depth knowledge in Cisco HCS platform, Microsoft Teams, AWS cloud computing, UCAAS, network infrastructure, SD WAN, MPLS, VOIP SIP, Call Center solution.  Software skills in Power BI, Tableau and data visualization.
 
@@ -38,7 +37,37 @@ Career Highlight:
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### INTRADO CORP (WEST CORP.)	Singapore
+
+•	INTRADO CORP (WEST CORP.)	Singapore
+Senior Project Manager -Global PMO	2016-2020
+Program Manager -APAC	2013-2016
+Project Manager	2010-2013
+
+
+-	Lead global team in implementing customer solutions and infrastructure projects.
+
+-	Project Portfolio
+	
+1.	Revenue Strategy 
+-	Lead customer-based projects in collaboration with Sales team.
+-	Global deployment of unified communication and collaboration services (UCAAS) using Cisco, Microsoft Team and Intrado platform and cloud network to enterprise, corporate, education sectors.
+
+2.	Network Efficiency and Optimization Strategy 
+-	Spearheaded projects in building network infrastructure, data center consolidation and cloud migration across APAC.
+-	Key achievement- (1) Maximizes use of infrastructure and bandwidth (2) Reduced infrastructure cost by 35% (3) Increased network efficiency and uptime by moving legacy system into the cloud.
+
+
+3.	Growth Strategy 
+-	Spearheaded technical deployment of new services, data center and office expansions.
+-	Integration of new acquisition 
+-	Key achievement- Collaboration with C management and across the organization in delivering organization target goals.
+
+-	Awards and recognition
+-	Recognition for Outstanding Performance in management of Singtel Project -2014
+-	Recognition for outstanding performance -2015
+-	Recognition for outstanding performance -2016
+
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
