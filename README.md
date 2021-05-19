@@ -2,8 +2,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+✉️: cathrinaloi@outlook.com 
+&nbsp;&nbsp; 📲 +65- 8168 8935
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
@@ -12,11 +12,13 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/cathyloi/cathrina_loi/main/images/LinkedID%20CLoi.jpg)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Cathrina Loi__, As regional project manager and servant-leader , I lead, oversee and deploy technical projects in various level of complexities across the APAC region. I work effectively across borders and cultures with customers, vendors and employees in countries such as China, Australia, Singapore, India, Japan, South Korea, Philippines, USA and EMEA.
+
+I value the resources and time invested into the project ,thus I am fully committted and lead the project team to common goal in delivering successful project objectives.
 
 
 <!-- Add link to the sections -->
